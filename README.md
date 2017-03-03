@@ -1,5 +1,5 @@
 # hello-world
 
-Hi guys!
+Hi Guys!
 
-23 year old coffee addict who stays caffinated for code.
+23 year old coffee addict that stays caffinated to learn code.
